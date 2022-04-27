@@ -17,3 +17,8 @@ demo.py
 
 otherUtils.py
 module/Transformer_offical.py
+
+# pretrain model: chinese_wwm
+pretrained/chinese_wwm/config.json
+pretrained/chinese_wwm/pytorch_model.bin
+pretrained/chinese_wwm/vocab.txt
